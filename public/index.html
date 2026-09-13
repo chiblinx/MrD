@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Local Table Search</title>
+    <link rel="stylesheet" href="/styles.css" />
+    <script type="module" src="/js/app.js"></script>
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="page-shell app-header__inner">
+        <div>
+          <p class="eyebrow">Search &amp; Discovery</p>
+          <h1>Local Table Search</h1>
+          <p class="app-header__description">
+            Find meals and groceries with live-style price, availability and delivery times.
+          </p>
+        </div>
+      </div>
+    </header>
+
+    <main class="page-shell app-main">
+      <section class="search-panel" aria-labelledby="search-heading">
+        <div class="section-heading">
+          <h2 id="search-heading">Search catalog</h2>
+        </div>
+
+        <form id="search-form" class="search-form" autocomplete="off">
+          <div class="field field--search">
+            <label for="search-input">Search</label>
+            <input
+              id="search-input"
+              name="q"
+              type="search"
+              placeholder="Try burger, chicken, smoothie..."
+            />
+          </div>
+
+          <div class="field">
+            <label for="category-select">Category</label>
+            <select id="category-select" name="category">
+              <option value="">All categories</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="sort-select">Sort</label>
+            <select id="sort-select" name="sort">
+              <option value="relevance">Relevance</option>
+              <option value="popularity-desc">Popularity: high to low</option>
+              <option value="popularity-asc">Popularity: low to high</option>
+              <option value="name-asc">Name: A to Z</option>
+            </select>
+          </div>
+
+          <div class="form-actions">
+            <button class="button button--primary" type="submit">Search</button>
+            <button class="button button--secondary" type="button" id="clear-button">
+              Clear
+            </button>
+          </div>
+        </form>
+      </section>
+
+      <section
+        class="results-panel"
+        aria-labelledby="results-heading"
+        aria-describedby="results-status"
+      >
+        <div class="results-panel__header">
+          <div>
+            <p class="eyebrow">Results</p>
+            <h2 id="results-heading">Available nearby</h2>
+          </div>
+          <p id="results-status" class="results-status" role="status" aria-live="polite">
+            Preparing catalog.
+          </p>
+        </div>
+
+        <div
+          id="partial-alert"
+          class="notice notice--warning"
+          role="status"
+          aria-live="polite"
+          hidden
+        ></div>
+
+        <div id="results-grid" class="results-grid" aria-busy="false"></div>
+      </section>
+    </main>
+  </body>
+</html>

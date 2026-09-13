@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" role="img" aria-labelledby="title desc">
+  <title id="title">Food placeholder</title>
+  <desc id="desc">A simple plate and bowl illustration used when no product photo is available.</desc>
+  <rect width="160" height="120" rx="8" fill="#f5f0e8"/>
+  <circle cx="80" cy="62" r="38" fill="#ffffff" stroke="#d9d0c3" stroke-width="4"/>
+  <path d="M48 64c11 18 53 18 64 0" fill="none" stroke="#27594d" stroke-width="8" stroke-linecap="round"/>
+  <path d="M58 50c10-12 33-12 44 0" fill="none" stroke="#d9822b" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="66" cy="42" r="5" fill="#c94040"/>
+  <circle cx="94" cy="42" r="5" fill="#c94040"/>
+</svg>

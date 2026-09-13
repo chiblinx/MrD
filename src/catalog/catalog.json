@@ -1,0 +1,326 @@
+[
+  {
+    "id": "item-001",
+    "name": "Classic Beef Burger",
+    "description": "Flame grilled beef patty with lettuce, tomato, pickles and house sauce.",
+    "category": "Burgers",
+    "basePrice": 89.99,
+    "popularity": 99,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-002",
+    "name": "Smoky BBQ Burger",
+    "description": "Beef burger with smoked cheddar, crispy onions and tangy barbecue sauce.",
+    "category": "Burgers",
+    "basePrice": 104.99,
+    "popularity": 88,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-003",
+    "name": "Spicy Chicken Burger",
+    "description": "Crispy chicken fillet, chilli mayo, slaw and fresh tomato on a toasted bun.",
+    "category": "Burgers",
+    "basePrice": 92.99,
+    "popularity": 91,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-004",
+    "name": "Mushroom Swiss Burger",
+    "description": "Beef patty topped with sauteed mushrooms, Swiss cheese and garlic aioli.",
+    "category": "Burgers",
+    "basePrice": 109.99,
+    "popularity": 82,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-005",
+    "name": "Plant-Based Garden Burger",
+    "description": "Plant patty with avocado, rocket, tomato relish and vegan mayo.",
+    "category": "Burgers",
+    "basePrice": 98.99,
+    "popularity": 76,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-006",
+    "name": "Breakfast Burger",
+    "description": "Beef patty, fried egg, cheddar, hash brown and tomato chutney.",
+    "category": "Burgers",
+    "basePrice": 96.99,
+    "popularity": 73,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-007",
+    "name": "Margherita Pizza",
+    "description": "Stone baked pizza with tomato sauce, mozzarella and fresh basil.",
+    "category": "Pizza",
+    "basePrice": 119.99,
+    "popularity": 93,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-008",
+    "name": "Pepperoni Pizza",
+    "description": "Classic mozzarella pizza loaded with pepperoni slices and oregano.",
+    "category": "Pizza",
+    "basePrice": 139.99,
+    "popularity": 96,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-009",
+    "name": "Chicken Alfredo Pizza",
+    "description": "Creamy white sauce pizza with roasted chicken, mushrooms and mozzarella.",
+    "category": "Pizza",
+    "basePrice": 149.99,
+    "popularity": 87,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-010",
+    "name": "Veggie Supreme Pizza",
+    "description": "Peppers, olives, mushrooms, red onion and mozzarella on tomato base.",
+    "category": "Pizza",
+    "basePrice": 134.99,
+    "popularity": 79,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-011",
+    "name": "Four Cheese Pizza",
+    "description": "Mozzarella, cheddar, feta and blue cheese with herb oil.",
+    "category": "Pizza",
+    "basePrice": 144.99,
+    "popularity": 81,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-012",
+    "name": "Hawaiian Pizza",
+    "description": "Ham, pineapple and mozzarella on a classic tomato base.",
+    "category": "Pizza",
+    "basePrice": 129.99,
+    "popularity": 72,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-013",
+    "name": "Crispy Chicken Strips",
+    "description": "Golden fried chicken strips served with ranch dipping sauce.",
+    "category": "Chicken",
+    "basePrice": 84.99,
+    "popularity": 95,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-014",
+    "name": "Lemon Herb Roast Chicken",
+    "description": "Quarter chicken roasted with lemon, herbs and garlic butter.",
+    "category": "Chicken",
+    "basePrice": 99.99,
+    "popularity": 89,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-015",
+    "name": "Hot Wings",
+    "description": "Chicken wings tossed in spicy buffalo sauce with celery sticks.",
+    "category": "Chicken",
+    "basePrice": 89.99,
+    "popularity": 92,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-016",
+    "name": "Peri-Peri Chicken Bowl",
+    "description": "Grilled peri-peri chicken with rice, charred corn and cucumber salsa.",
+    "category": "Chicken",
+    "basePrice": 112.99,
+    "popularity": 86,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-017",
+    "name": "Chicken Caesar Wrap",
+    "description": "Grilled chicken, cos lettuce, parmesan and Caesar dressing in a wrap.",
+    "category": "Chicken",
+    "basePrice": 78.99,
+    "popularity": 78,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-018",
+    "name": "Sticky Chicken Bites",
+    "description": "Bite-sized chicken pieces glazed with honey soy sauce and sesame.",
+    "category": "Chicken",
+    "basePrice": 74.99,
+    "popularity": 83,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-019",
+    "name": "Fresh Orange Juice",
+    "description": "Cold pressed orange juice made daily with no added sugar.",
+    "category": "Drinks",
+    "basePrice": 34.99,
+    "popularity": 84,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-020",
+    "name": "Iced Coffee",
+    "description": "Chilled espresso with milk, vanilla and ice.",
+    "category": "Drinks",
+    "basePrice": 39.99,
+    "popularity": 90,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-021",
+    "name": "Sparkling Lemonade",
+    "description": "Lemon soda with mint and a bright citrus finish.",
+    "category": "Drinks",
+    "basePrice": 29.99,
+    "popularity": 77,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-022",
+    "name": "Mango Smoothie",
+    "description": "Blended mango, yoghurt and honey for a creamy fruit drink.",
+    "category": "Drinks",
+    "basePrice": 49.99,
+    "popularity": 85,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-023",
+    "name": "Still Water 500ml",
+    "description": "Chilled bottled still water.",
+    "category": "Drinks",
+    "basePrice": 14.99,
+    "popularity": 70,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-024",
+    "name": "Berry Iced Tea",
+    "description": "Black tea with berry syrup, lemon and crushed ice.",
+    "category": "Drinks",
+    "basePrice": 32.99,
+    "popularity": 74,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-025",
+    "name": "Chocolate Brownie",
+    "description": "Rich chocolate brownie with a soft centre and crisp top.",
+    "category": "Desserts",
+    "basePrice": 44.99,
+    "popularity": 91,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-026",
+    "name": "New York Cheesecake",
+    "description": "Creamy baked cheesecake on a biscuit base with berry compote.",
+    "category": "Desserts",
+    "basePrice": 59.99,
+    "popularity": 88,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-027",
+    "name": "Malva Pudding",
+    "description": "Warm sponge pudding with caramel sauce and vanilla custard.",
+    "category": "Desserts",
+    "basePrice": 54.99,
+    "popularity": 87,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-028",
+    "name": "Churros with Chocolate",
+    "description": "Cinnamon sugar churros served with warm chocolate sauce.",
+    "category": "Desserts",
+    "basePrice": 49.99,
+    "popularity": 82,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-029",
+    "name": "Salted Caramel Sundae",
+    "description": "Vanilla ice cream with salted caramel, nuts and chocolate shards.",
+    "category": "Desserts",
+    "basePrice": 52.99,
+    "popularity": 80,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-030",
+    "name": "Fruit Salad Cup",
+    "description": "Seasonal fruit with mint and a squeeze of lime.",
+    "category": "Desserts",
+    "basePrice": 36.99,
+    "popularity": 68,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-031",
+    "name": "Free Range Eggs 6 Pack",
+    "description": "Fresh free range eggs for breakfast, baking or pantry staples.",
+    "category": "Grocery",
+    "basePrice": 42.99,
+    "popularity": 75,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-032",
+    "name": "Sourdough Loaf",
+    "description": "Crusty sourdough bread baked with a slow fermented starter.",
+    "category": "Grocery",
+    "basePrice": 39.99,
+    "popularity": 79,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-033",
+    "name": "Organic Milk 1L",
+    "description": "Fresh organic full cream milk from local farms.",
+    "category": "Grocery",
+    "basePrice": 29.99,
+    "popularity": 73,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-034",
+    "name": "Avocado Twin Pack",
+    "description": "Two ripe avocados ready for toast, salads or burger toppings.",
+    "category": "Grocery",
+    "basePrice": 34.99,
+    "popularity": 81,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-035",
+    "name": "Mixed Salad Greens",
+    "description": "Washed lettuce, rocket and baby spinach for quick fresh meals.",
+    "category": "Grocery",
+    "basePrice": 32.99,
+    "popularity": 69,
+    "imageUrl": "/images/food-placeholder.svg"
+  },
+  {
+    "id": "item-036",
+    "name": "Granola Breakfast Bag",
+    "description": "Toasted oats, seeds, almonds and dried fruit for breakfast bowls.",
+    "category": "Grocery",
+    "basePrice": 64.99,
+    "popularity": 71,
+    "imageUrl": "/images/food-placeholder.svg"
+  }
+]
